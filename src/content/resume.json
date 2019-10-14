@@ -1,0 +1,201 @@
+{
+    "titles": {
+        "about" : "Me",
+        "timeline": "Experience Timeline",
+        "skills": "Skills",
+        "education": "Education",
+        "socials": "Socials",
+        "info": "Info"
+    },
+    "abouts": {
+        "title": "Me",
+        "description": "I'm a software engineer and co-founder of Fueled on Bacon and Boastable. I've developed applications, e-commerce experiences, and high end websites for diverse clients and internal projects alike.",
+        "details":[
+            {
+              "name": "Email",
+              "icon": "mdi-email",
+              "text": "ryan@fueledonbacon.com"
+            },
+            {
+              "name": "Website",
+              "icon": "mdi-web",
+              "text": "ryancwynar.com"
+            },
+            {
+              "name": "Current Locale",
+              "icon": "mdi-map-marker",
+              "text": "Boynton Beach, FL"
+            }
+        ],
+        "socials": [
+            {
+              "icon": "mdi-github-circle",
+              "text": "github.com/RyanCwynar",
+              "link": "https://github.com/RyanCwynar"
+            },
+            {
+              "icon": "mdi-linkedin-box",
+              "text": "linkedin.com/in/ryancwynar",
+              "link": "https://linkedin.com/in/ryancwynar"
+            },
+            {
+              "icon": "mdi-twitter",
+              "text": "twitter.com/RyanCwynar",
+              "link": "https://twitter.com/RyanCwynar"
+            },
+            {
+              "icon": "mdi-instagram",
+              "text": "instagram.com/ryancwynar_codes",
+              "link": "https://instagram.com/ryancwynar_codes"
+            }
+        ]
+    },
+    "educations": [
+        {
+        "to"         : "Class of 2009",
+        "title"      : "Bachelor of Science, Physics",
+        "location"   : "United States Air Force Academy",
+        "description": "Focused on the study of Laser and Optics within my major, also minored in Chinese language."
+        }
+    ],
+    "skills": [
+        {
+          "title": "JavaScript",
+          "icon" : "mdi-language-javascript",
+          "value": 95
+        },
+        {
+            "title": "Node",
+            "icon" : "mdi-nodejs",
+            "value": 95
+        },
+        {
+          "title": "Vue.js Framework",
+          "icon" : "mdi-vuejs",
+          "value": 80
+        },
+        {
+            "title": "React.js Framework",
+            "icon" : "mdi-react",
+            "value": 70
+        },
+        {
+            "title": "Angular.js Framework",
+            "icon" : "mdi-angularjs",
+            "value": 95
+        },
+        {
+          "title": "PHP",
+          "icon" : "mdi-language-php",
+          "value": 60
+        },
+        {
+            "title": "Python",
+            "icon" : "mdi-language-python",
+            "value": 45
+        },
+        { "divider": true },
+        {
+            "title": "MongoDB",
+            "icon" : "mdi-database",
+            "value": 90
+        },
+        {
+            "title": "MySQL",
+            "icon" : "mdi-database",
+            "value": 70
+        },
+        {
+            "title": "Kubernetes",
+            "icon" : "mdi-kubernetes",
+            "value": 65
+        },
+        {
+          "title": "Test Driven Development",
+          "icon" : "mdi-test-tube",
+          "value": 50
+        },
+        {
+          "title": "CICD",
+          "icon" : "mdi-truck-fast",
+          "value": 35
+        },
+        {
+          "title": "Git",
+          "icon" : "mdi-git",
+          "value": 95
+        },
+        {"divider": true},
+        {"title": "Wordpress", "icon" : "mdi-wordpress", "value": 99},
+        {"title": "Advanced Custom Fields", "icon" : "mdi-wordpress", "value": 99},
+        {"title": "Zapier", "icon" : "mdi-tools", "value": 80},
+        {"title": "Twilio API", "icon" : "mdi-tools", "value": 85}
+    ],
+    "timelines": [
+        {
+            "detailed": true,
+            "year"    : "2009 - 2011",
+            "title"   : "Hyperspectral Imaging System Calibration Lead",
+            "organization": "United States Air Force",
+            "html"    : "<p>As a military physicist, I designed and implemented experiments to analyze the performance of hyperspectral imaging systems for use on air and space platforms.</p>",
+            "iconImage": "img/logos/usaf.jpg"
+        },
+        {
+          "detailed": true,
+          "year"    : "2011 - 2014",
+          "title"   : "Space Systems Analyst",
+          "organization": "United States Air Force",
+          "html"    : "<p>Participated in the scientific assessment and acquisition of satellites for the United States Air Force. For example, we assessed the viability of a satellite whose mission was to clear space debris and if it was realistic that a contractor could deliver such a platform given the current state of the art in that field.</p><p>We routinely performed analyses to determine the viability of such proposals on behalf of the USAF.</p>",
+          "iconImage": "img/logos/usaf.jpg"
+        },
+        {
+          "year" : "2016",
+          "title": "MEAN Stack Developer",
+          "organization": "AktaryTech",
+          "html" : "<p>Built MEAN stack applications for clients and internal projects.</p>",
+          "iconImage": "img/logos/aktarytech.png"
+        },
+        {
+          "year" : "2017 - Present",
+          "title": "Co-Founder",
+          "organization": "Fueled on Bacon",
+          "html" : "<p>Primarily concerned with the development and deployment of software internally and for clients.</p><p>I architected the Boastable SaaS reputation management platform using Node/Express, Vue, Mongo, Docker, and Kubernetes. This was a subscription service which sent out surveys over SMS with a novel interface designed to quickly gather valuable feedback for business owners and build online reputations to make businesses more competitive in their local markets.</p><p>Created interfaces in ReactJS for clients.</p><p><a href='https://fueledonbacon.com' target='_blank'>Agency Website</a></p>",
+          "iconImage": "img/logos/fob.png"
+        },
+        {
+          "year" : "Spring 2017",
+          "title": "Software Developer",
+          "organization": "ShadowBid",
+          "html" : "<p>I built the second version of the ShadowBid chrome extension.</p><p>Required extensive maintenance and feature construction of their Node/Express API</p><p>Novel payment processing and data aggregation tasks. The interface was built with the AngularJS framework and Material Design library components.</p><p>The system used the price history of retail products fed into a proprietary algorithm to make predictions about the future price of a product and make suggestions to the consumer about what actions to take.</p><p>The tool also performed automatic purchasing to help consumers take advantage of sudden favorable price fluctuations.</p>",
+          "iconImage": "img/logos/shadowbid.png"
+        },
+        {
+            "year" : "Fall 2017",
+            "title": "Lead Developer for Enterprise Management Platform for Coworking Space",
+            "organization": "CTRL Collective (Client)",
+            "html" : "<p>Archicted and constructed an API to manage the day-to-day operation of a chain of coworking spaces.</p><p>Technology stack consisted of the following:</p><ul><li>NodeJS/Express</li><li>MongoDB</li><li>AngularJS</li><li>AWS Elastic Beanstalk</li></ul>",
+            "icon": "mdi-worker"
+        },
+        {
+            "year" : "Spring 2018",
+            "title": "Lead Developer, EV Brand Launch",
+            "organization" : "SERES (Formerly SF Motors)",
+            "html" : "<p>Worked with client to provide the technical expertise to realize the presentation and infrastructure of their website.</p><p>This included a series of complex animations, high end design requirements, and support for livestream events.</p><p><a href='https://driveseres.com' target='_blank'>Company Website</a></p>",
+            "iconImage": "img/logos/sfmotors.png"
+        },
+        {
+            "year" : "Summer 2018",
+            "title": "Co-Founder, Lead Developer",
+            "organization": "Boastable",
+            "html" : "<p>Architected and built the underlying structure of the Boastable application.</p><p>The technology stack is composed of:</p><ul><li>Vue.js</li><li>Node.js</li><li>Kubernetes</li><li>Twilio</li><li>Zapier</li></ul><p>The goal of the application is to build local business reputations by capturing more positive third party reviews from diverse sources as common as Google to more obscure industry specific sources like Avvo, or geography specific sources like BrightLocal.</p><p>The mechanism for this are surveys sent through SMS with a novel interface which steers customers to submit reviews.</p><p><a href='https://boastable.co' target='_blank'>Company Website</a></p><p><a href='https://app.boastable.co' target='_blank'>Application Gateway</a></p>",
+            "iconImage": "img/logos/boastable.png"
+        },
+        {
+            "year" : "Summer 2019",
+            "title": "A-Lodge E-Commerce Website",
+            "organization": "Boulder Adventure Lodge (Client)",
+            "html" : "<p>Created a boutique hotel e-commerce experience with exceptional design aesthetic and a seamless integration with the CloudBeds API.</p><p><a href='https://a-lodge.com' target='_blank'>Client Website</a></p>",
+            "iconImage": "img/logos/alodge.png"
+        }
+    ]
+}
