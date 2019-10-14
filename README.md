@@ -32,5 +32,10 @@ git clone https://github.com/RyanCwynar/vue-resume
 
 5. Build it with `npm build`.
 
+## How to deploy
+1. Setup your custom domain in Github Pages.
+2. Change the content and colors. (Obviously)
+3. Run `npm run deploy`. This will create the gh-pages branch and launch the site at your custom domain.
+
 ## License
 Code is licensed under the [MIT License](LICENSE).
