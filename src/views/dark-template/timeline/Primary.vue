@@ -147,7 +147,6 @@ export default {
   img{
     object-fit: contain;
     background-color:white;
-    
     margin: 0 auto;
   }
 }

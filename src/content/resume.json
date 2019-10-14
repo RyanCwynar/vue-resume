@@ -174,7 +174,7 @@
             "title": "Lead Developer for Enterprise Management Platform for Coworking Space",
             "organization": "CTRL Collective (Client)",
             "html" : "<p>Archicted and constructed an API to manage the day-to-day operation of a chain of coworking spaces.</p><p>Technology stack consisted of the following:</p><ul><li>NodeJS/Express</li><li>MongoDB</li><li>AngularJS</li><li>AWS Elastic Beanstalk</li></ul>",
-            "icon": "mdi-worker"
+            "iconImage": "img/logos/ctrl.png"
         },
         {
             "year" : "Spring 2018",
