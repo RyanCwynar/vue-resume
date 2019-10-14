@@ -4,8 +4,8 @@
     dark
   >
     <v-card-text>
-      <avatar />
-      <div class="text-sm-center mb-4 mt-3">
+      <avatar class="text-xs-center" />
+      <div class="text-xs-center mb-4 mt-3">
         <h1>
           Ryan <span class="light-blue--text text--lighten-3">Cwynar</span>
         </h1>
