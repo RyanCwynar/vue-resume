@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 See yourself:
+  🚀 See it in action:
   <a href="https://resume.ryancwynar.com/">
      Demo
   </a>
