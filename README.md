@@ -1,23 +1,17 @@
 <h1 align="center">
-  <br>
-  <a target="_blank" href="https://ryancwynar.com/resume/">
-    <img src="src/assets/logo.png" alt="Markdownify" width="200">
-  </a>
-  <br>
-  Vue Resume
-  <br>
+    Vue Resume
 </h1>
 
 <h4 align="center">
   🚀 See yourself:
-  <a href="https://ryancwynar.com/resume">
+  <a href="https://resume.ryancwynar.com/">
      Demo
   </a>
 </h4>
 
 
-## What is Vue Modern Resume?
-Vue Modern Resume is basically a simple (yet easy to setup) resume template based on <a href="https://vuejs.org/">Vue.js</a> framework and <a href="https://vuetifyjs.com/">Vuetify</a> UI toolkit.
+## What is it made of?
+A resume template based on <a href="https://vuejs.org/">Vue.js</a> and the <a href="https://vuetifyjs.com/">Vuetify</a> UI toolkit.
 
 
 
