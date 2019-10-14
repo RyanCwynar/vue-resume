@@ -4,7 +4,7 @@
         "timeline": "Experience Timeline",
         "skills": "Skills",
         "education": "Education",
-        "socials": "Socials",
+        "socials": "Social",
         "info": "Info"
     },
     "abouts": {
@@ -138,7 +138,7 @@
             "title"   : "Hyperspectral Imaging System Calibration Lead",
             "organization": "United States Air Force",
             "html"    : "<p>As a military physicist, I designed and implemented experiments to analyze the performance of hyperspectral imaging systems for use on air and space platforms.</p>",
-            "iconImage": "img/logos/usaf.jpg"
+            "iconImage": "img/logos/usaf.png"
         },
         {
           "detailed": true,
@@ -146,7 +146,7 @@
           "title"   : "Space Systems Analyst",
           "organization": "United States Air Force",
           "html"    : "<p>Participated in the scientific assessment and acquisition of satellites for the United States Air Force. For example, we assessed the viability of a satellite whose mission was to clear space debris and if it was realistic that a contractor could deliver such a platform given the current state of the art in that field.</p><p>We routinely performed analyses to determine the viability of such proposals on behalf of the USAF.</p>",
-          "iconImage": "img/logos/usaf.jpg"
+          "iconImage": "img/logos/usaf.png"
         },
         {
           "year" : "2016",
@@ -181,7 +181,7 @@
             "title": "Lead Developer, EV Brand Launch",
             "organization" : "SERES (Formerly SF Motors)",
             "html" : "<p>Worked with client to provide the technical expertise to realize the presentation and infrastructure of their website.</p><p>This included a series of complex animations, high end design requirements, and support for livestream events.</p><p><a href='https://driveseres.com' target='_blank'>Company Website</a></p>",
-            "iconImage": "img/logos/sfmotors.png"
+            "iconImage": "img/logos/seres.png"
         },
         {
             "year" : "Summer 2018",
