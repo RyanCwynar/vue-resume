@@ -30,8 +30,16 @@ $desktop-mocks-height: 900;
     src: url("/fonts/Merriweather-Regular.ttf") format("truetype");
 }
 @font-face{
-    font-family: "Titillium Thin";
-    src: url("/fonts/Titillium-Thin.otf") format("opentype")
+    font-family: "Titillium";
+    src: url("/fonts/Titillium-Thin.otf") format("opentype");
+    font-weight: 200;
+    font-style: thin;
+}
+@font-face{
+    font-family: "Titillium";
+    src: url("/fonts/Titillium-Regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
 }
 
 /* resets */
@@ -42,6 +50,7 @@ $desktop-mocks-height: 900;
 .title{
     font-family: "Merriweather", serif !important;
 }
+.v-card__title{padding-bottom: 0px;}
 ul{margin-bottom: 16px;}
 /* resets */
 
@@ -67,31 +76,31 @@ h4, h5{
     font-family: "TradeGothic", sans-serif; 
     font-weight: 500;}
 p, html, li{
-    font-family: "Titillium Thin", sans-serif;}
+    font-family: "Titillium", sans-serif;}
 
-h1{
-    font-size: dvw($s03);
-}
-h2, h2.title{
-    font-size: dvw($s07);
-}
-h3, h3.title{
-    font-size: dvw($s08);
-}
-h4, h5{ 
-    font-size: dvw($s08);}
-p, html, li{
-    font-size: dvw($s11) !important;}
+// h1{
+//     font-size: dvw($s03);
+// }
+// h2, h2.title{
+//     font-size: dvw($s07);
+// }
+// h3, h3.title{
+//     font-size: dvw($s08);
+// }
+// h4, h5{ 
+//     font-size: dvw($s08);}
+// p, html, li{
+//     font-size: dvw($s11) !important;}
 
-@media (max-width: 768px){
+// @media (max-width: 768px){
 
-    h1{
-        font-size: mvw($s06);}
-    h2, h3{ 
-        font-size: mvw($s07);}
-    h4, h5{ 
-        font-size: mvw($s08)}
-    p, html, li{
-        font-size: mvw($s11);}
-}
+//     h1{
+//         font-size: mvw($s06);}
+//     h2, h3{ 
+//         font-size: mvw($s07);}
+//     h4, h5{ 
+//         font-size: mvw($s08)}
+//     p, html, li{
+//         font-size: mvw($s11);}
+// }
 

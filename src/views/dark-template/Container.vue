@@ -30,9 +30,7 @@
                 </v-flex>
               </v-layout>
               <v-layout>
-                <v-flex md12>
-                  <timeline-primary />
-                </v-flex>
+                <timeline-primary />
               </v-layout>
             </v-flex>
           </v-layout>

@@ -1,8 +1,8 @@
 <template>
   <div class="mb-4">
-    <div class="title mb-3">
+    <h2 class="mb-3">
       {{ options.title }}
-    </div>
+    </h2>
     <slot v-if="$slots.default" />
     <template v-else-if="$scopedSlots.items">
       <slot
@@ -35,3 +35,6 @@ export default {
   props     : { options: { type: Object, default: () => {} } },
 }
 </script>
+
+<style>
+</style>

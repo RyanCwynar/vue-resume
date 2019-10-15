@@ -1,6 +1,6 @@
 <template>
   <v-card
-    color="grey lighten-4"
+    color="lighten-4"
     light
   >
     <v-card-text>
@@ -91,8 +91,12 @@ export default {
 </script>
 
 <style scoped>
-
+.v-icon{
+  vertical-align: middle;
+  margin-right: 10px;
+}
 .progress {
   margin-top: 0.1rem;
 }
+
 </style>

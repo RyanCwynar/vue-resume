@@ -38,3 +38,7 @@ export default {
   props     : { title: { type: String, default: '' } },
 }
 </script>
+
+<style scoped>
+.application{font-family: unset;}
+</style>

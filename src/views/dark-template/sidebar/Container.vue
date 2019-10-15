@@ -9,9 +9,9 @@
         <h1>
           Ryan <span class="light-blue--text text--lighten-3">Cwynar</span>
         </h1>
-        <span>
+        <h3>
           Software Engineer
-        </span>
+        </h3>
       </div>
 
       <sidebar-section :options="sections.info" />
@@ -44,7 +44,12 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
+h1{
+  font-size: 48px;
+  letter-spacing: -0.08ch;
+  text-transform: uppercase;
+}
 .sidebar{
     background: #2e2e2e;
 }
