@@ -128,10 +128,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.title {
-  border-bottom: 2px #bfbfbf solid;
-  line-height: 1.5 !important;
-}
 .v-card__title p{
   margin-bottom: 0;
   font-style: italic;

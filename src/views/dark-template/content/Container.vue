@@ -55,9 +55,7 @@
                 class="mr-2 ml-2"
               >
                 <div class="align-center">
-                  <v-icon
-                    small
-                  >
+                  <v-icon medium>
                     {{ skill.icon }}
                   </v-icon>
                   {{ skill.title }}
@@ -93,10 +91,7 @@ export default {
 </script>
 
 <style scoped>
-.title {
-  border-bottom: 2px #bfbfbf solid;
-  line-height: 1.5 !important;
-}
+
 .progress {
   margin-top: 0.1rem;
 }

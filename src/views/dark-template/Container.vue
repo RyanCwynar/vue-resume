@@ -57,7 +57,8 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="scss">
+@import "@/scss/global.scss";
 #dark-template {
   weight: 100%;
   background: #66668d;

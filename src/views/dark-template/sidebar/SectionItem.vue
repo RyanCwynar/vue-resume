@@ -4,7 +4,7 @@
       v-if="hasIcon"
       xs2
     >
-      <v-icon>
+      <v-icon medium>
         {{ item.icon }}
       </v-icon>
     </v-flex>
