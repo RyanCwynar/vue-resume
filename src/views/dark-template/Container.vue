@@ -19,12 +19,14 @@
             >
               <v-layout wrap>
                 <v-flex
-                  md4
+                  xs6
+                  sm4
                 >
                   <sidebar-container class="fill-height" />
                 </v-flex>
                 <v-flex
-                  md8
+                  xs6
+                  sm8
                 >
                   <content-container class="fill-height" />
                 </v-flex>
